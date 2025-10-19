@@ -26,3 +26,9 @@ go test ./...
 ```
 
 ---
+
+## Diagram
+
+![PlantUML Diagram](https://www.plantuml.com/plantuml/svg/NP11QiCm44NtSuhPTHKVe9GGI4dfec3g4mpIBpMLHsOqBYtay7M3PKGMWk7zDrz8f-9Ylao9HdNOXmHmBxyJr2aaAONFXZZwMInkO8rxIRHP_7JjkbPgUNLhrIV2LrwSwi27mv7hmYD7pD1OE6lTUCUSpL-WCF5i6xsC2ODym-Wkl_NjwTgu51IY1tuTUiQFJ7D2-r2xpGqPWgYYtlDsUQRrSDTTZrNUmUwUeF7_0_y0)
+
+---
